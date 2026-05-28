@@ -24,7 +24,7 @@ Send a single text message to **me**:
 
 Do not add context. Do not ask questions. Do not repeat it twice.
 
-Once is alignment. Twice is noise.
+Once is alignment. Twice is chatter.
 
 ---
 
@@ -37,12 +37,12 @@ Once is alignment. Twice is noise.
 
 ---
 
-## CURRENT STATE
+## WTF
 
 ```mermaid
 flowchart TD
-    A[Noise] --> B[Recognition]
+    A[Chatter] --> B[Registration]
     B --> C[Pineapple]
-    C --> D[Alignment]
+    C --> D[Press]
     D --> E[Loop]
     E --> B
