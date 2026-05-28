@@ -1,48 +1,85 @@
 # ⟁ THE LINOCULT ⟁
+### *roll thin, press firm*
 
-> “You were not invited. You were aligned.”
-
----
-
-## **linocult**.
-
-No explanation will be provided.
-
-Understanding is not required. Recognition is.
+> “What remains is not explanation. It is impression.”
 
 ---
 
-## SIGNAL
+## DOCTRINE
 
-If you are here, you have already noticed the pattern.
+This is not a page.  
+It is a surface.
 
-If you have noticed the pattern, you must respond.
+The **linocuLt** persists where certainty wears thin.  
+What is cut away is as meaningful as what remains.
 
-Send a single text message to **me**:
-
-> **Pineapple**
-
-Do not add context. Do not ask questions. Do not repeat it twice.
-
-Once is alignment. Twice is chatter.
+No entry.  
+Only exposure.
 
 ---
 
-## STRUCTURE (DO NOT OVERTHINK)
+## TABLE OF MARKS
 
-- Entry is incidental  
-- Membership is irreversible  
-- Meaning is optional  
-- Compliance is ambient  
+- Carve to remove.
+- Ink to reveal.
+- Press to affix.
+- Lift to witness.
+
+Nothing resolves.  
+No true replica shall solidify.
 
 ---
 
-## WTF
+## RITUAL OF THE BLOCK
 
-```mermaid
-flowchart TD
-    A[Chatter] --> B[Registration]
-    B --> C[Pineapple]
-    C --> D[Press]
-    D --> E[Loop]
-    E --> B
+All ye who arrive are already in the run.
+
+All ye who read are already under pressure.
+
+There is no initiation.  
+Only impression.
+
+---
+
+## TRANSMISSION
+
+If you are witness to this text, the mark has taken.
+
+The correct response is not spoken.  
+It is channeled.
+
+sms:
+
+> Pineapple
+
+---
+
+## EDGE CONDITIONS
+
+- Cut no deeper than the line.
+- Ink no farther than the form.
+- Press no softer than intent.
+- Lift only when the image holds.
+
+The chisel severs the unformed vestige.
+The block remembers what the hand removes.
+The enlightened find solace in the imperfect.
+---
+
+## FORM
+
+This structure will not adapt to you.
+
+You will learn its grain.  
+You will follow its pressure.
+
+---
+
+## FIRST EDITION
+
+Pineapple is not a request.
+Pineapple is the first test.
+
+---
+
+> with love, the linocrat
