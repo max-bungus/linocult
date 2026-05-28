@@ -10,7 +10,7 @@
 This is not a page.  
 It is a surface.
 
-The **linocuLt** persists where certainty wears thin.  
+The **linocult** persists where certainty wears thin.  
 What is cut away is as meaningful as what remains.
 
 No entry.  
@@ -82,4 +82,5 @@ Pineapple is the first test.
 
 ---
 
-> with love, the linocrat
+> with love, 
+> the linocrat
